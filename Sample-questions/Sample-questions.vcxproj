@@ -147,6 +147,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Average of all subarry with lenght of K.cpp" />
+    <ClCompile Include="Fruits into Baskets.cpp" />
+    <ClCompile Include="Longest Subarray with Ones after Replacement.cpp" />
+    <ClCompile Include="Longest Substring with k distinct character.cpp" />
+    <ClCompile Include="Longest Substring with Same Letters after Replacement.cpp" />
+    <ClCompile Include="Maximum sum of subarray size k.cpp" />
+    <ClCompile Include="No-repeat Substring.cpp" />
+    <ClCompile Include="Permutation in a String.cpp" />
+    <ClCompile Include="Smallest Subarray with a given Sum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

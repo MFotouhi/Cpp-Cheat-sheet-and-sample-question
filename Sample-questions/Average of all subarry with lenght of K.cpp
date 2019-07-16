@@ -33,7 +33,7 @@ public:
 	}
 };
 //--------------------------------------------------------------------------------------//
-int main() {
+int main1() {
 	vector <int> arr = { 1, 3, 2, 6, -1, 4, 1, 8, 2 };
 	int K = 5;
 	vector <double> ans = FindTheAverageOfSubarray2::FindTheAverage(K, arr);
