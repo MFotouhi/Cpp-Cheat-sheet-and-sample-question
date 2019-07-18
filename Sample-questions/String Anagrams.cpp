@@ -38,7 +38,7 @@ public:
 	}
 };
 //---------------------------------------------------------------------------//
-int main(int argc, char *argv[]) {
+int main10(int argc, char *argv[]) {
 	auto result = StringAnagrams::findStringAnagrams("ppqp", "pq");
 	for (auto num : result) {
 		cout << num << " ";
