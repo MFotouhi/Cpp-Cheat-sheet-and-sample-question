@@ -42,5 +42,8 @@
     <ClCompile Include="Permutation in a String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="String Anagrams.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
