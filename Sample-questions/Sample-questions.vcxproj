@@ -153,10 +153,17 @@
     <ClCompile Include="Longest Substring with Same Letters after Replacement.cpp" />
     <ClCompile Include="Maximum sum of subarray size k.cpp" />
     <ClCompile Include="No-repeat Substring.cpp" />
+    <ClCompile Include="Pair with Target Sum.cpp" />
     <ClCompile Include="Permutation in a String.cpp" />
+    <ClCompile Include="Remove Duplicates.cpp" />
     <ClCompile Include="Smallest Subarray with a given Sum.cpp" />
     <ClCompile Include="Smallest Window containing Substring.cpp" />
+    <ClCompile Include="Squaring a Sorted Array.cpp" />
     <ClCompile Include="String Anagrams.cpp" />
+    <ClCompile Include="Triplet Sum Close to Target .cpp" />
+    <ClCompile Include="Triplet Sum to Zero.cpp" />
+    <ClCompile Include="Triplets with Smaller Sum.cpp" />
+    <ClCompile Include="Words Concatenation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

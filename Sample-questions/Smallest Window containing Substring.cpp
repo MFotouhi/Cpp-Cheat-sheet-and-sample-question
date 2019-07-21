@@ -44,7 +44,7 @@ public:
 	}
 };
 
-int main(int argc, char *argv[]) {
+int main11(int argc, char *argv[]) {
 	cout <<"\n\tMinumum sub: "<<MinimumWindowSubstring::findPermutation("aabdec","abc");
 	cout <<"\n\tMinumum sub: "<< MinimumWindowSubstring::findPermutation("abdabca","abc");
 	cout <<"\n\tMinumum sub: "<< MinimumWindowSubstring::findPermutation("adcad","abc");
